@@ -1,0 +1,14 @@
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/bin/Debug/net8.0/TemperatureConverterApp
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/bin/Debug/net8.0/TemperatureConverterApp.deps.json
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/bin/Debug/net8.0/TemperatureConverterApp.runtimeconfig.json
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/bin/Debug/net8.0/TemperatureConverterApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/bin/Debug/net8.0/TemperatureConverterApp.pdb
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.AssemblyInfoInputs.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.AssemblyInfo.cs
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.csproj.CoreCompileInputs.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/refint/TemperatureConverterApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.pdb
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/TemperatureConverterApp.genruntimeconfig.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/TemperatureConverterApp/obj/Debug/net8.0/ref/TemperatureConverterApp.dll

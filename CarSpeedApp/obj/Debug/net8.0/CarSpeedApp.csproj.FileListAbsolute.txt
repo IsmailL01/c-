@@ -1,0 +1,14 @@
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/bin/Debug/net8.0/CarSpeedApp
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/bin/Debug/net8.0/CarSpeedApp.deps.json
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/bin/Debug/net8.0/CarSpeedApp.runtimeconfig.json
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/bin/Debug/net8.0/CarSpeedApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/bin/Debug/net8.0/CarSpeedApp.pdb
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.AssemblyInfoInputs.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.AssemblyInfo.cs
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.csproj.CoreCompileInputs.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/refint/CarSpeedApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.pdb
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/CarSpeedApp.genruntimeconfig.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/CarSpeedApp/obj/Debug/net8.0/ref/CarSpeedApp.dll

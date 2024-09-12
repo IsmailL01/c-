@@ -1,0 +1,14 @@
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/bin/Debug/net8.0/FunctionCalculatorApp
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/bin/Debug/net8.0/FunctionCalculatorApp.deps.json
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/bin/Debug/net8.0/FunctionCalculatorApp.runtimeconfig.json
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/bin/Debug/net8.0/FunctionCalculatorApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/bin/Debug/net8.0/FunctionCalculatorApp.pdb
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.AssemblyInfoInputs.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.AssemblyInfo.cs
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.csproj.CoreCompileInputs.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/refint/FunctionCalculatorApp.dll
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.pdb
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/FunctionCalculatorApp.genruntimeconfig.cache
+/Users/ismail/Desktop/all/advanced-courses/c#/FunctionCalculatorApp/obj/Debug/net8.0/ref/FunctionCalculatorApp.dll
